@@ -224,6 +224,8 @@ MonoBehaviour:
   - {fileID: 4794752306734139138}
   m_renderMode: 1
   m_depthSubmissionMode: 0
+  m_optimizeBufferDiscards: 0
+  m_symmetricProjection: 0
 --- !u!114 &-2328644499211642046
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -281,6 +283,8 @@ MonoBehaviour:
   features: []
   m_renderMode: 1
   m_depthSubmissionMode: 0
+  m_optimizeBufferDiscards: 0
+  m_symmetricProjection: 0
 --- !u!114 &-1700740890052535314
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -489,6 +493,8 @@ MonoBehaviour:
   - {fileID: -554305488739046809}
   m_renderMode: 1
   m_depthSubmissionMode: 0
+  m_optimizeBufferDiscards: 0
+  m_symmetricProjection: 0
 --- !u!114 &3060047125355417620
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -560,6 +566,11 @@ MonoBehaviour:
     manifestName: cambria
     enabled: 1
   forceRemoveInternetPermission: 1
+  symmetricProjection: 0
+  systemSplashScreen: {fileID: 0}
+  optimizeBufferDiscards: 1
+  lateLatchingMode: 0
+  lateLatchingDebug: 0
 --- !u!114 &4794752306734139138
 MonoBehaviour:
   m_ObjectHideFlags: 0
